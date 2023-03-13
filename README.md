@@ -1,6 +1,28 @@
 # Physics 
 # Waves, Electromagnetism and Optics
+# Data Science
+#### By: Javier Orduz
+[license-badge]: https://img.shields.io/badge/License-CC-orange
+[license]: https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en
 
+[![CC License][license-badge]][license]  [![DS](https://img.shields.io/badge/downloads-DS-green)](https://github.com/Earlham-College/DS_Fall_2022)  [![Github](https://img.shields.io/badge/jaorduz-repos-blue)](https://github.com/jaorduz/)  ![Follow @jaorduc](https://img.shields.io/twitter/follow/jaorduc?label=follow&logo=twitter&logoColor=lkj&style=plastic)
+
+
+## Contents
+1. [Python Basics](#pythoBas01)
+1. [Exercises](#electric01)
+1. [References](#references)
+
+----------------
+
+
+
+
+## 0. Python Basics <a name = pythoBas01></a>
+
+
+
+## 1. Electricity <a name = electric01></a>
 Exercises and examples about physics 230
 
 ## Exercises and examples: Electric Field, Electric potential, Charge and more
@@ -24,3 +46,17 @@ On the other hand, you will have some exercises which relates force and electric
 \vec{F} = Q~\vec{E}
 ```
 where $Q$ is a test charge.
+
+
+
+
+Here you find some extra material, I will try to put all the references; however, let me know if I missed any paper, repository or slides.
+I will happy to put your material like part of my documentation.
+
+
+
+
+# References <a name="references"></a>
+
+
+[1] https://github.com/cs109/2015lab1
