@@ -20,6 +20,13 @@
 
 ## 0. Python Basics <a name = pythoBas01></a>
 
+There are a lot of websites to study python; however, I would like to share some extra basic material created by some groups where I worked, the most of the material was created by students, I hope you enjoy it and it helps in your practice.
+
+## Python repositories and other resources
+
+1. (https://www.learnpython.org/)[Python 01]
+1. (https://github.com/UNAM-FESAc)[Python 02]
+
 
 
 ## 1. Electricity <a name = electric01></a>
