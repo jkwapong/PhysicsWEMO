@@ -24,8 +24,8 @@ There are a lot of websites to study python; however, I would like to share some
 
 ## Python repositories and other resources
 
-1. (Python 01)[https://www.learnpython.org/]
-1. (Python 02)[https://github.com/UNAM-FESAc]
+1. [Python 01](https://www.learnpython.org/)
+1. [Python 02](https://github.com/UNAM-FESAc)
 
 
 ## 1. Electricity <a name = electric01></a>
